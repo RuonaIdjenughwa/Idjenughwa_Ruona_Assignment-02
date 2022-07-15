@@ -12,7 +12,7 @@ maybe('Challenge - 1 : my sumNumbers function can sum an array of numbers', () =
         72,
         -25,
         -51,
-        32,
+        32,                                                                                                                                                             
         10,
         64,
         -94,
